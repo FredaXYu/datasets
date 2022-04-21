@@ -8,6 +8,8 @@
 
 - data world: https://data.world/ We can grab datasets into our own working directory. There may be several linked datasets and maybe codes. 
 
+- AggData – locational data: https://www.aggdata.com/ 
+
 - UK government datasets: https://data.gov.uk/
 
 - Google public datasets: https://www.google.com/publicdata/directory
