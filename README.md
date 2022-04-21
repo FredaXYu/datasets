@@ -47,3 +47,6 @@
 - TED talks: https://www.kaggle.com/datasets/ashishjangra27/ted-talks 
 
 
+
+-------------------------------
+(File location: ./D:/University-of-London-2020/CM3015-Machine-Learning-and-Neural-Networks/Reliable_big_open_datasets.doc)
