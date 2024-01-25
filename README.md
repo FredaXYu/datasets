@@ -46,6 +46,7 @@
 
 - TED talks: https://www.kaggle.com/datasets/ashishjangra27/ted-talks 
 
+- UCLA: https://stats.idre.ucla.edu/stat/data/binary.csv
 
 
 -------------------------------
